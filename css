@@ -9,3 +9,38 @@ body {
   -webkit-column-count: 2;
   column-count: 2;
 }
+
+h1{
+  color:#FDFEFE;
+  font-family:monospace;
+}
+
+h2{
+  font-family:  Garamont,sans-serif;
+}
+
+p{
+  font-family:monospace;
+  color: #FDFEFE ;
+  font-size: 18px;
+  font-weight:bold;
+
+}
+
+ul{
+  color:  "Dark Red";
+  font-family: cursive;
+  font-size: 18px;
+}
+
+.column {
+    float: left;
+}
+
+.left, .right {
+    width: 25%;
+}
+
+.middle {
+    width: 50%;
+}
